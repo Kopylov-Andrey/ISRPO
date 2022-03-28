@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bc1257c-4e5a-42e9-a672-97093f8ec3b3": {
+      "ProjectGuid": "6bc1257c-4e5a-42e9-a672-97093f8ec3b3",
+      "DisplayName": "LocalChat",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
