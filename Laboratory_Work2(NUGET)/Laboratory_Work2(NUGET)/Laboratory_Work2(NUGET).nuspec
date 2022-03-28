@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>KopylovAndrey</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <description>My.first.librarry.nuget</description>
+    <releaseNotes>Initial relize</releaseNotes>
+    <copyright>copyright</copyright>
+    <tags>Myroject</tags>
+  </metadata>
+</package>

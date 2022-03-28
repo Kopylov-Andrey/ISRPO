@@ -1,0 +1,8 @@
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\DotNet Laboratory Work II sem\Laboratory_Work_2(NuGet)\Laboratory_Work2(NUGET)\Laboratory_Work2(NUGET)\obj\Debug\Laboratory_Work2(NUGET).csproj.GenerateResource.cache
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\DotNet Laboratory Work II sem\Laboratory_Work_2(NuGet)\Laboratory_Work2(NUGET)\Laboratory_Work2(NUGET)\obj\Debug\Laboratory_Work2(NUGET).csproj.CoreCompileInputs.cache
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\DotNet Laboratory Work II sem\Laboratory_Work_2(NuGet)\Laboratory_Work2(NUGET)\Laboratory_Work2(NUGET)\bin\Debug\Laboratory.Work2.NUGET.dll.config
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\DotNet Laboratory Work II sem\Laboratory_Work_2(NuGet)\Laboratory_Work2(NUGET)\Laboratory_Work2(NUGET)\bin\Debug\Laboratory.Work2.NUGET.dll
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\DotNet Laboratory Work II sem\Laboratory_Work_2(NuGet)\Laboratory_Work2(NUGET)\Laboratory_Work2(NUGET)\bin\Debug\Laboratory.Work2.NUGET.pdb
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\DotNet Laboratory Work II sem\Laboratory_Work_2(NuGet)\Laboratory_Work2(NUGET)\Laboratory_Work2(NUGET)\obj\Debug\Laboratory.Work2.NUGET.Properties.Resources.resources
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\DotNet Laboratory Work II sem\Laboratory_Work_2(NuGet)\Laboratory_Work2(NUGET)\Laboratory_Work2(NUGET)\obj\Debug\Laboratory.Work2.NUGET.dll
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\DotNet Laboratory Work II sem\Laboratory_Work_2(NuGet)\Laboratory_Work2(NUGET)\Laboratory_Work2(NUGET)\obj\Debug\Laboratory.Work2.NUGET.pdb
