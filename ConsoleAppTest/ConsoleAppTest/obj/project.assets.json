@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Laboratory.Work2.NUGET/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net472/Laboratory.Work2.NUGET.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Laboratory.Work2.NUGET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratory.Work2.NUGET/1.0.0": {
+      "sha512": "Ejgz7+PC24x6/pyKhb/HzUtozepLjm3f7DD4+8ffBaEVyZ6Yh41N0GRQkXc1roKyObx1QfBrPD+ekHapnu0Hdw==",
+      "type": "package",
+      "path": "laboratory.work2.nuget/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "laboratory.work2.nuget.1.0.0.nupkg.sha512",
+        "laboratory.work2.nuget.nuspec",
+        "lib/net472/Laboratory.Work2.NUGET.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Laboratory.Work2.NUGET >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\DotNet Laboratory Work II sem\\Laboratory_Work_2(NuGet)\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+      "projectName": "ConsoleAppTest",
+      "projectPath": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\DotNet Laboratory Work II sem\\Laboratory_Work_2(NuGet)\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\DotNet Laboratory Work II sem\\Laboratory_Work_2(NuGet)\\ConsoleAppTest\\ConsoleAppTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Laboratory.Work2.NUGET": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Laboratory.Work2.NUGET 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Laboratory.Work2.NUGET",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

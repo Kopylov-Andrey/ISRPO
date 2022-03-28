@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9ZDqdNapXeZUcdVwHGuoc5Uws1uPQv/WjeKoYFd8r34S/DNoJ7ILo/1BwTTL5mbMRYFpWtRLrv44Oi6KQSO/g==",
+  "success": true,
+  "projectFilePath": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\DotNet Laboratory Work II sem\\Laboratory_Work_2(NuGet)\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\laboratory.work2.nuget\\1.0.0\\laboratory.work2.nuget.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Laboratory.Work2.NUGET 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Laboratory.Work2.NUGET",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
